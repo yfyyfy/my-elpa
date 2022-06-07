@@ -46,6 +46,7 @@
  (js2-mode . [(20201220) ((emacs (24 1)) (cl-lib (0 5))) "Improved JavaScript editing mode" tar])
  (json-mode . [(1 8 0) ((json-snatcher (1 0 0)) (emacs (24 4))) "Major mode for editing JSON files." tar])
  (json-snatcher . [(1 0 0) ((emacs (24))) "Grabs the path to JSON values in a JSON file" tar])
+ (link-hint . [(20220414 56) ((avy (0 4 0)) (emacs (24 4))) "Use avy to open, copy, etc. visible links" tar])
  (lsp-mode . [(8 0 0) ((emacs (26 1)) (dash (2 18 0)) (f (0 20 0)) (ht (2 3)) (spinner (1 7 3)) (markdown-mode (2 3)) (lv (0))) "LSP mode" tar])
  (lsp-ui . [(8 0 0) ((emacs (26 1)) (dash (2 18 0)) (lsp-mode (6 0)) (markdown-mode (2 3))) "UI modules for lsp-mode" tar])
  (lv . [(0 15 0) nil "Other echo area" tar])
