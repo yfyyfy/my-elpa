@@ -27,6 +27,7 @@
  (emaps . [(0 2 0) ((dash (2 17 0)) (emacs (24))) "Utilities for working with keymaps" tar])
  (epc . [(0 1 1) ((concurrent (0 3 1)) (ctable (0 1 2))) "A RPC stack for the Emacs Lisp" tar])
  (epl . [(0 9) ((cl-lib (0 3))) "Emacs Package Library" tar])
+ (ess . [(20230419 1527) ((emacs (25 1))) "Emacs Speaks Statistics" tar])
  (f . [(0 20 0) ((s (1 7 0)) (dash (2 2 0))) "Modern API for working with files and directories" tar])
  (flycheck . [(20210321 852) ((dash (2 12 1)) (pkg-info (0 4)) (let-alist (1 0 4)) (seq (1 11)) (emacs (24 3))) "Onfly syntax checking" tar])
  (fringe-helper . [(20140620 2109) nil "helper functions for fringe bitmaps" tar])
