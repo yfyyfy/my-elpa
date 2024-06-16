@@ -67,6 +67,7 @@
  (python-environment . [(0 0 2) ((deferred (0 3 1))) "virtualenv API for Emacs Lisp" tar])
  (recentf-ext . [(20170926 35) nil "Recentf extensions" tar])
  (rjsx-mode . [(0 5 0) ((emacs (24 4)) (js2-mode (20170504))) "Real support for JSX" tar])
+ (rust-mode . [(1 0 5) ((emacs (25 1))) "A major-mode for editing Rust source code" tar])
  (s . [(1 12 0) nil "The long lost Emacs string manipulation library." tar])
  (spinner . [(1 7 4) ((emacs (24 3))) "Add spinners and progressline for ongoing operations" tar])
  (tablist . [(1 0) ((emacs (24 3))) "Extended tabulatedmode" tar])
