@@ -1,6 +1,7 @@
 (1
  (ac-clang . [(1 9 2) ((emacs (24)) (cl-lib (0 5)) (auto-complete (1 4 0)) (pos-tip (0 4 6)) (yasnippet (0 8 0))) "Auto Completion source by libclang for GNU Emacs" tar])
  (add-node-modules-path . [(20230307 655) ((s (1 12 0))) "Add node_modules to your exec-path." tar])
+ (ai-code . [(1 970) ((emacs (29 1)) (transient (0 9 0)) (magit (2 1 0))) "Unified interface for AI coding backends such as Codex CLI, Pi, Antigravity CLI, Claude Code, etc." tar])
  (aio . [(1 1) ((emacs (26 1))) "Async/await for Emacs Lisp." tar])
  (async . [(1 9 9) ((emacs (24 4))) "Asynchronous processing in Emacs." tar])
  (auto-complete . [(20251231 1622) ((emacs (25 1)) (popup (0 5 8))) "Auto Completion for GNU Emacs." tar])
