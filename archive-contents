@@ -79,6 +79,7 @@
  (tablist . [(1 3) ((emacs (25 1))) "Extended tabulatedmode." tar])
  (tide . [(20260219 336) ((emacs (25 1)) (dash (2 10 0)) (s (1 11 0)) (flycheck (27)) (cl-lib (0 5))) "Typescript Interactive Development Environment." tar])
  (typescript-mode . [(20250118 2056) ((emacs (24 3))) "Major mode for editing typescript." tar])
+ (vterm . [(20260914 1641) ((emacs (25 1))) "Fully-featured terminal emulator." tar])
  (w3 . [(4 0 49) nil "Fully customizable, largely undocumented web browser for Emacs" tar])
  (web-mode . [(17 3 20) ((emacs (23 1))) "Major mode for editing web templates." tar])
  (wfnames . [(1 2) ((emacs (24 4))) "Edit filenames." tar])
