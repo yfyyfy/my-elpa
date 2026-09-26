@@ -15,6 +15,7 @@
  (concurrent . [(20170601 435) ((emacs (24 3)) (deferred (0 5 0))) "Concurrent utility functions for emacs lisp." tar])
  (cond-let . [(1 1 4) ((emacs (28 1))) "Additional and improved binding conditionals." tar])
  (consult . [(3 9) ((emacs (29 1)) (compat (31))) "Search and navigate via completing-read" tar])
+ (copilot . [(0 9 0) ((emacs (27 2)) (editorconfig (0 8 2)) (jsonrpc (1 0 14)) (compat (30)) (track-changes (1 4))) "An Emacs plugin for GitHub Copilot." tar])
  (csv-mode . [(1 27) ((emacs (27 1)) (cl-lib (0 5))) "Major mode for editing comma/char separated values" tar])
  (ctable . [(20210128 629) ((emacs (24 3)) (cl-lib (0 5))) "Table component for Emacs Lisp." tar])
  (cygwin-mount . [(20131111 1346) nil "Teach EMACS about cygwin styles and mount points." tar])
